@@ -1,0 +1,5 @@
+# Jetbrain IDEs
+.idea/
+
+# Any joomla downloaded zips
+Joomla_*.zip
